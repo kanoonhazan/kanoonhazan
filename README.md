@@ -1,4 +1,4 @@
-## Hi there 👋 It's me Hazan
+# Hi there 👋 It's me Hazan
 
 Ui/Ux Designer @ Dilimatrix
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
@@ -45,6 +45,6 @@ src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Ado
 
 ![Hazan's's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanoonhazan&theme=dark&show_icons=true&&hide=issues,contribs)
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/hareeshprogrammer?ext=contest&theme=dark)](https://leetcode.com/kanoonhazan)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/kanoonhazan?theme=dark&font=Barlow)](https://leetcode.com/kanoonhazan)
 
 [![Hazan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kanoonhazan&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
